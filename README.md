@@ -56,9 +56,9 @@ _이텔릭_ <br />
 # 이미지(Images)
 ![]()
 
-![HEROPY](https://heropy.blog/css/images/logo.png)
+![Smile](https://avatars.githubusercontent.com/u/74516070?v=4)
 
-[![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
+[![Smile](https://avatars.githubusercontent.com/u/74516070?v=4)](https://github.com/JungHyun0902)
 
 # 인용문(BlockQuote)
 
